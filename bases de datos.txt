@@ -1,3 +1,20 @@
 
+En la base de datos, todo se guarda,
+información precisa, ordenada,
+en tablas y filas se distribuye,
+y con claves únicas se identifica.
 
-Despues me invento el poema
+Datos de clientes, productos y ventas,
+fechas y montos, todo queda en paz,
+búsquedas rápidas, resultados exactos,
+eficiencia y seguridad, eso es un hecho.
+
+Relaciones entre tablas se establecen,
+joins y queries se utilizan,
+para obtener información valiosa,
+que en decisiones importantes se apoya.
+
+La base de datos es un tesoro,
+que se cuida y se mantiene a diario,
+para que la información sea confiable,
+y los negocios prosperen en grande.
